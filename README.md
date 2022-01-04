@@ -1,4 +1,4 @@
-- ✌️ Hin I'm Kelly CLOVIS
+- ✌️ Hi I'm Kelly CLOVIS
 - 👀 I am a front-end web Developer JS and web Integrator
 - 🌱 My portfolio House : ekaily.com
 - 💞️ You can contact me by email at : contact@ekaily.com
