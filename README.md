@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **why not improve and perfect my code**
 
-- 👨‍💻 All of my projects are available at [ekaily.com](ekaily.com)
+- 👨‍💻 All of my projects are available at <a href="https://ekaily.com" target="blank">ekaily.com</a>
 
 - 💬 Ask me about **to give you a hand on a project or an idea it will be with pleasure**
 
