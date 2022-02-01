@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **contact@ekaily.com**
 
+- 🔭 My CodePen is <a href="https://codepen.io/EkailyDev" target="_blank">HERE</a>
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
