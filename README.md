@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kelly CLOVIS</h1>
 <h3 align="center">A passionate frontend developer AND web integrator from FRANCE</h3>
-<img src="https://ekaily.com/images-Divers/gif/developer.gif" alt="Image gif d'un développeur au travail" align="center" width="200px">
+<img src="https://ekaily.com/images-Divers/gif/developer.gif" alt="Image gif d'un développeur au travail" margin="auto" align="center" width="200px">
 
 - 🔭 I’m currently working on [as a freelancer with the startup KAVIAR TECH](https://www.kaviar.app/)
 
