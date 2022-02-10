@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kelly CLOVIS</h1>
-<h3 align="center">A passionate frontend developer AND web integrator from fRANCE</h3>
+<h3 align="center">A passionate frontend developer AND web integrator from FRANCE</h3>
 
 - 🔭 I’m currently working on [as a freelancer with the startup KAVIAR GATE](https://www.kaviar.app/)
 
